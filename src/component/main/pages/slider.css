@@ -1,0 +1,36 @@
+
+.slider-container {
+    margin: 10px;
+  }
+
+  .rc-slider {
+    width: 100%;
+    margin: 0px auto;
+    
+    
+  }
+  
+  .rc-slider-handle {
+    background-color: #5832A2;
+    border-color: #5832A2;
+    border: 2px solid #5832A2
+  }
+  
+  .rc-slider-track {
+    background-color: #5832A2;
+    
+  }
+  
+  .rc-slider-mark-text {
+    color: #333;
+  }
+
+  .bg-success:hover {
+    background-color: #28a745; /* or the desired success color */
+  }
+  
+  .bg-purple:hover {
+    background-color: #6f42c1; /* or the desired purple color */
+  }
+  
+  

@@ -1,0 +1,93 @@
+.dashboard-skeleton {
+    display: flex;
+    flex-direction: column;
+    background-color: #e0e0e0;
+  }
+  
+  .header-skeleton,
+  .main-content-skeleton {
+    background-color: #f0f0f0;
+    padding: 10px;
+ 
+  }
+  
+  .sidebar-skeleton {
+    flex: 0 0 20%;
+    background-color: #e0e0e0;
+    padding:50px;
+    height: 80vh;
+  }
+  
+  .center-content-skeleton {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .additional-content-skeleton {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Adjust the animation */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .dashboard-skeleton {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .header-skeleton {
+    display: flex;
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+  .sidebar-skeleton {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+  }
+  
+  .user-info-skeleton {
+    /* display: flex; */
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .menu-skeleton {
+    display: flex;
+    flex-direction: column;
+    background-color: #f0f0f0;
+  }
+  
+  .header-right-skeleton {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+ padding: 5px;
+  }
+  
+  .main-content-skeleton {
+    flex: 1;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .table-skeleton {
+    background-color: #ffffff;
+    padding: 20px;
+  }
+
+  .table-skeleton2 {
+    padding: 2px;
+  }
+  
+  /* Other styles as needed */
+  

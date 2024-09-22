@@ -1,0 +1,58 @@
+.custom-modal-content {
+    background-color: #FFFFFF;
+    border-color: #5E17EB;
+    border-radius: 1rem;
+    /* border: 1px solid #5E17EB; */
+    width: 100%!important;
+    color: #000;
+  }
+  
+  .custom-modal-dialog {
+    width: 100%!important;
+    max-width: none; 
+    margin: 1.75rem auto;
+    color: #000;
+  }
+  .full-width-modal {
+    max-width: none;
+  }
+  
+  .custom-modal-header {
+    border-bottom: none;
+    text-align: center;
+  }
+  
+  .custom-modal-header h4 {
+    line-height: 3rem;
+  }
+  
+  .custom-modal-body {
+    padding: 1rem;
+  }
+  
+  .custom-progress-track {
+    margin-bottom: 3vh;
+    overflow: hidden;
+    padding-left: 0px;
+    margin-top: 3vh;
+  }
+  
+  .progress-bar {
+    background-color: #5E17EB; /* Change to the background color you want for the progress bar */
+  }
+  
+  .d-table{
+    width: 100%;
+}
+.d-table-row{
+    width: 100%;
+}
+.d-table-cell{
+    padding-left: 3rem;
+}
+@media (max-width: 767px){
+    .d-table-cell{
+        padding-left: 1rem;
+    } 
+}
+  

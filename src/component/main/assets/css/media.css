@@ -1,0 +1,665 @@
+@media screen and (max-width: 1400px) {
+    .bg_banner{
+        left: 150px !important;
+    }
+    /* .stretch_text>h1 {
+        font-size: 40px !important;
+    } */
+}
+
+@media screen and (max-width: 1200px) {
+    .boking_but button{
+        padding: 10px 23px;
+        font-size: 16px;
+    }
+    .logo img{
+        width: 200px;
+    }
+    .main_header ul li a{
+        font-size: 16px;
+    }
+    .bg_banner{
+        left: 100px !important;
+    }
+    .timel_text , .timel_text1{
+        padding: 10px 20px !important;
+       
+    }
+    .timel_text>p,.timel_text1>p{
+        font-size: 14px !important;
+    }
+    .main-timeline-section .conference-center-line{
+        left: 9% !important;
+    }
+    .f_text>h4 , .f_text_1>h4{
+        font-size: 20px !important;
+    }
+    .f_text,.f_text_1 {
+        width: 400px !important;
+        padding: 10px 20px !important;
+    }
+    .f_img1 {
+        width: 350px !important;
+    }
+    .main_mem_text {
+        padding: 7% !important;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .stretch_banner {
+        background-image: linear-gradient(to top, rgba(245, 246, 252, 0.52), rgba(0, 0, 0, 1.97)), url(../image/try.png) !important;
+      
+    }
+    .boking_but button{
+        padding: 8px 15px !important;
+        font-size: 12px !important;
+    }
+    .logo img{
+        width: 160px !important;
+    }
+    .main_header ul li a{
+        font-size: 12px !important;
+    }
+    .head_set ul{
+        margin-left: 10px;
+    
+    }
+    .head_set>ul li{
+        margin: 0px !important;
+        font-size: 12px !important;
+    
+    }
+    .men_img>img {
+        width: 100% !important;
+        height: 100%;
+    }
+    .bg_banner {
+        left: 220px !important;
+        width: 430px !important;
+    }
+    .bg_banner1{
+        bottom: -152px !important;
+        width: 724px !important;
+    }
+    .men_img{
+        height: 70vh !important;
+    }
+    .banner_text , .men_text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        padding: 0px !important;
+    }
+    /* .men_text>h1{
+        font-size: 40px !important;
+        margin-top: 5% !important;
+    } */
+    .men_text>p{
+        margin: 2% !important;
+    }
+    .men_baner{
+        margin-bottom: 5% !important;
+    }
+    .men_banner{
+        height: 100vh !important;
+        
+    }
+    .line_1,.line_2 {
+        width: 200px !important;
+    }
+    .balance_list>ul>li{
+        font-size: 20px !important;
+    }
+    .main-timeline-section .conference-center-line{
+        left: 14% !important;
+        width: 75% !important;
+    }
+    .timeline-article>h4 {
+        left: 40px !important;
+        font-size: 16px !important;
+    }
+    .timeline-article .content-box {
+        width: 150px !important;
+        top: 47% !important;
+        left: 15px !important;
+        height: 130px !important;
+        line-height: 20px !important;
+        font-size: 12px !important;
+        font-weight: 400;
+    }
+    .type_heading {
+        font-size: 35px !important;
+    }
+     .type_1img {
+        height: 80% !important;
+        width: 100%;
+    }
+    .type_1detail {
+        padding: 20px !important;
+    }
+    .stretch_text {
+        padding-top: 30%;
+        padding-left: 0px !important;
+    }
+    .f_text>h4 , .f_text_1>h4{
+        font-size: 18px !important;
+    }
+    .f_text,.f_text_1 {
+        width: 45% !important;
+        padding: 10px !important;
+    }
+    .f_line_1 {
+        width: 200px !important;
+    }
+    .f_line_2 {
+        width: 150px !important;
+    }
+    .wellnes_details{
+        width: 94%;
+    }
+    .routine{
+        width: 90% !important;
+    
+    }
+    .routine>h2{
+        font-size: 20px !important;
+    }
+    .wellnes_details>h1 {
+        text-align: center !important;
+    }
+    .main_mem_text {
+        padding: 5% !important;
+    }
+    .provider_detail {
+        height: 100%;
+        width: 100% !important;
+        float: unset !important;
+        padding: 5% !important;
+    }
+    .empower_img,.empower_img>img{
+        width: 70% !important;
+    }
+    .empower_img1,.empower_img1>img{
+        width: 70% !important;
+    }
+    .pro_list>h4::before {
+        content: "";
+        position: absolute;
+        height: 20px;
+        width: 20px;
+        left: 0% !important;
+        top: 26% !important;
+        border-radius: 50%;
+        background-color: #E2D5FB;
+    }
+    .signin_img, .signin_img>img {
+        display: none !important;
+    }
+    .s_qus , .f_qus {
+        align-items: flex-start !important;
+        flex-direction: column !important;
+    }
+    .fitness_banner {
+        background-image: linear-gradient(to top, rgba(254, 254, 254, 0.156), rgb(0, 0, 0)), url(../image/fitness.png) !important;
+    }
+    .fit_imh>img {
+        width: 35%;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    p {
+        font-size: 14px !important;
+        line-height: 25px !important;
+    }
+    h1 {
+        font-size: 25px !important;
+    }
+    h3 , h4 , h5{
+        font-size: 16px !important;
+        line-height: 30px !important;
+    }
+    .pb-5 , .pb-5{
+        padding-bottom: 1rem!important;
+
+    }
+    .boking_but>button,.nav_main ,.main_header>ul , .head_set>ul{
+       display: none !important;
+    }
+    .side_bar>ul{
+        display: block !important;
+    }
+    .logo img{
+        width: 160px !important;
+    }
+    .side_but{
+        display: block !important;
+    }
+    .bg_banner {
+        left: 50px !important;
+    }
+    .men_banner{
+        height: 90vh !important;
+        
+    }
+    .timeLine {
+        padding: 2% 0px;
+        width: 100%;
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+    .timeLine1 {
+        padding: 2% 0px;
+        width: 100%;
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        flex-direction: column !important;
+    }
+    .timel_img ,.timel_img1 {
+        height: 40vh;
+        width: 70%;
+        border-radius: unset;
+    }
+    .round ,.round1{
+        position: unset;
+        left: unset;
+        right: unset;
+        margin-top: -15px !important;
+    }
+    .line_1 ,    .line_2{
+        height: 8vh !important;
+        width: 1.5px !important;
+        position: unset;
+        left: unset;
+        margin: 0px;
+    }
+    .timel_text ,.timel_text1{
+        position: unset;
+        left: unset;
+    }
+    .timel_text, .timel_text1{
+        width: 90% !important;
+    }
+    /* .massage_tital>h1{
+        font-size: 35px !important;
+    } */
+    /* .massage_tital>h3 {
+        font-size: 20px !important;
+    } */
+    .massage_text {
+        padding-top: 10% !important;
+        padding-left: 0px !important;
+        align-items: center;
+
+    }
+    .massage_text>p,.massage_text>h1 {
+        text-align:center !important ;
+    }
+    .massage_banner_text , .balance_box>p, .balance_list>ul>li{
+        font-size: 14px !important;
+        line-height: 25px !important;
+       
+    }
+    .balance_list>ul li::before {
+        content: "";
+        width: 7px !important;
+        height: 7px !important;
+        top: 0px !important;
+    }
+    .massage_banner , .type_1img{
+        height: 80vh !important;
+        background-size: 100% 100% !important;
+    }
+    .main-timeline-section .conference-center-line {
+        width: 5px !important;
+        height: 120vh !important;
+        top: 43% !important;
+    }
+    .conference-timeline-content{
+        flex-direction: column;
+    }
+    .main-timeline-section {
+        height: auto !important;
+    }
+    .timeline-article .meta-date {
+        left: -45px !important;
+    }
+    .timeline-article>h4 {
+        top: 17% !important;
+        left: 25px !important;
+        font-size: 20px !important;
+    }
+    .timeline-article .content-box {
+        width: 220px !important;
+        top: 40% !important;
+        left: 15px !important;
+        height: 130px !important;
+        line-height: 25px !important;
+        font-size: 14px !important;
+    }
+    .timeline-article-top .content-box:before {
+        left: 5% !important;
+    }
+    .type_heading {
+        font-size: 25px !important;
+        padding: 20px 30px !important;
+    }
+    .timeline-article{
+        min-height: 250px !important;
+    }
+    .f_timeLine {
+        align-items: flex-end !important;
+        flex-direction: column-reverse !important;
+    }
+    .f_img {
+        height: 30vh !important;
+        width: 50% !important;
+    }
+    .f_line_1 {
+        height: 15vh !important;
+        width: 3px !important;
+        left: -260px !important;
+        top: -40px !important;
+        z-index: -1;
+    }
+    .f_text{
+        left: -250px !important;
+        top: -70px !important;
+    }
+    .f_img1 {
+        height: 25vh !important;
+        width: 40% !important;
+        position: relative !important;
+        top: -150px !important;
+    }
+    .f_line_2{
+        height: 25vh !important;
+        width: 3px !important;
+        left: -190px !important;
+        top: -250px !important;
+        z-index: -1;
+    }
+    .f_text_1{
+        left: -180px !important;
+        top: -280px !important;
+    }
+    .f_text>h4, .f_text_1>h4 {
+        font-size: 15px !important;
+    }
+    .bb{
+        border-right: none !important;
+        border-bottom: 1px solid #C4ABF8;
+        margin-bottom: 10px;
+    }
+    .l_textmem {
+        padding: 30px 0px !important;
+    }
+    .review_div {
+        height: 30vh !important;
+    }
+    .member_tital {
+        width: 90% !important;
+    }
+    .mem_Sec_text>h1 {
+        margin-left: 0% !important;
+        text-align: center;
+    }
+    .provider_detail>h1 , .provider_detail>p{
+        text-align: center;
+    }
+    .mem_head>h1 {
+        font-size: 25px !important;
+    }
+  }
+  @media screen and (max-width: 575px) {
+    .bg_banner {
+        left: 15% !important;
+        width: 400px !important;
+
+    }
+    .bg_banner1{
+        width: 700px!important;
+    }
+    .men_banner{
+        height: 80vh !important;
+        
+    }
+    .women_img{
+        height: 70vh !important;
+    }
+    .main-timeline-section .conference-center-line {
+        left: 16% !important;
+    }
+    .main-timeline-section {
+        height: auto !important;
+        display: flex;
+        padding-left: 10%;
+    }
+    .main-timeline-section .conference-center-line {
+        left: 2% !important;
+    }
+    .line_time{
+        padding-left: 20%;
+    }
+    .f_img {
+        height: 30vh !important;
+        width: 70% !important;
+    }
+    .f_img1 {
+        height: 25vh !important;
+        width: 50% !important;
+        position: relative !important;
+        top: -140px !important;
+    }
+    .f_line_1 {
+        height: 14vh !important;
+        width: 3px !important;
+        left: -279px !important;
+        top: -40px !important;
+        z-index: -1;
+    }
+    .f1{
+        display: none !important;
+    }
+
+    .f2{
+        display: block !important;
+        width: auto !important;
+    }
+    .fitness_tital>h1 {
+        font-size: 25px !important;
+    }
+    .wellnes_miniImg {
+        height: 60vh !important;
+    }
+    .wellnes_miniImg>img{
+        width: 50%;
+    }
+    .buss_f_text {
+        padding: 10px 10px !important;
+    }
+  }
+  @media screen and (max-width: 500px) {
+    .bg_banner {
+        left: 5% !important;
+        width: 380px !important;
+
+    }
+    .bg_banner1{
+        width: 700px!important;
+    }
+    .balance_box {
+        padding: 20px 0px !important;
+    }
+    .type_heading {
+        font-size: 20px !important;
+        padding: 20px 25px !important;
+        width: 90%;
+    }
+    .type_1detail>h1 {
+        font-size: 25px !important;
+        
+    }
+    /* .type_1detail>p {
+        font-size: 14px !important;
+        line-height: 25px !important;
+    } */
+    .stretch_text {
+        padding-top: 10% !important;
+        padding-left: 0px !important;
+    }
+    /* .stretch_text>h1 {
+        font-size: 30px !important;
+    } */
+    .stretchinf_bn_text {
+        font-size: 20px !important;
+    }
+    .stretch_type_text>p {
+        line-height: 30px !important;
+        width: 100% !important;
+        font-size: 14px !important;
+        padding: 20px !important;
+    }
+    .fit_text {
+        background-color: #331D57;
+        padding: 40px;
+    }
+    .timeline-article .meta-date {
+        left: -40px !important;
+    }
+  }
+  @media screen and (max-width: 425px) {
+    .bg_banner {
+        left: 5% !important;
+        width: 350px !important;
+
+    }
+    .bg_banner1{
+        width: 600px!important;
+        bottom: -100px !important;
+    }
+    .men_banner , .men_img{
+        height: 70vh !important;
+        
+    }
+    .timel_img ,.timel_img1{
+        width: 100% !important;
+    }
+    .custom_but {
+        padding: 10px 60px !important;
+        font-size: 16px !important;
+    }
+    .massage_tital>h1{
+        font-size: 20px !important;
+    }
+    .massage_tital>h3 {
+        font-size: 15px !important;
+    }
+    .massage_text {
+        padding-top: 0% !important;
+
+    }
+    .massage_text>p{
+        text-align:center !important ;
+        font-size: 12px !important;
+        padding-bottom: 0px !important;
+
+    }
+    .massage_banner , .type_1img{
+        height: 60vh !important;
+        width: 100%;
+    }
+    .massage_banner_text {
+        font-size: 10px !important;
+        line-height: 20px !important;
+    }
+    .men_bg, .woman_mass {
+        height: 40vh !important;
+        width: 100%;
+    }
+    .timeline-article .meta-date {
+        left: -35px !important;
+    }
+    .mem_head>h1{
+        font-size: 20px !important;
+    }
+    .mem_head{
+        padding-top: 0px !important;
+    }
+    .mem_head>p{
+        font-size: 12px !important;
+        line-height: 20px !important;
+    }
+    .pad_handle{
+        padding: 0px !important;
+    }
+    .mini_benifit_text>p {
+        width: 95% !important;
+        font-weight: 500;
+        font-size: 14px !important;
+        text-transform: capitalize;
+    }
+    .mem_model>h4 {
+        font-size: 18px !important;
+    }
+    .main_mem_text {
+        padding: 5% !important;
+    }
+    .pro_list>h4 {
+        font-size: 20px !important;
+    }
+    .pro_list>h4::before {
+        content: "";
+        position: absolute;
+        height: 15px !important;
+        width: 15px !important;
+    }
+    .provider_type_text {
+        padding: 2% 5% !important;
+    }
+    .routine {
+        padding: 15px !important;
+       
+    }
+    .routine>h2 {
+        font-size: 14px !important;
+    }
+    .fitness_tital>h1 {
+        font-size: 20px !important;
+    }
+  }
+  @media screen and (max-width: 392px) {
+    .bg_banner {
+        left: 5% !important;
+        width: 300px !important;
+        /* padding-left:100px ; */
+
+    }
+    .bg_banner1 {
+        width: 500px!important;
+        bottom: -40px !important;
+    }
+    .men_banner , .men_img{
+        height: 50vh !important;
+        
+    }
+    .line_time {
+        padding-left: 5% !important;
+    }
+    .type_heading {
+        font-size: 18px !important;
+        padding: 20px 15px !important;
+        width: 90%;
+    }
+    .timeline-article {
+        width: 250px !important;
+    }
+    .start{
+        font-size: 14px;
+    }
+  }
+  
